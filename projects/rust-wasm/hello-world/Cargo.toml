@@ -1,0 +1,9 @@
+[package]
+name = "hello-world"
+version = "0.1.0"
+authors = ["zixuanzh <zixuanzh@seas.upenn.edu>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
